@@ -76,6 +76,9 @@
 .testimonial-height{
   height: 12rem;
 }
+.logo{
+  width: 50%;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
