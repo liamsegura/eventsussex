@@ -7643,6 +7643,8 @@ html {
       padding-right: 0; }
 
 .hiro-section {
+  display: flex;
+  justify-content: center;
   padding: 70px;
   padding-bottom: 90px; }
   @media (max-width: 767px) {
