@@ -7359,6 +7359,7 @@ html {
   padding-top: 27px;
   padding-bottom: 27px;
   position: relative;
+  height: 130px;
   z-index: 1001; }
   .hiro-nav .logo-white {
     display: none; }
@@ -7377,7 +7378,7 @@ html {
   overflow: hidden; }
   @media (max-width: 767px) {
     .hiro-nav-popup-modal-open {
-      padding-top: 81px; } }
+      padding-top: 130px; } }
   .hiro-nav-popup-modal-open .hiro-header {
     background-image: none; }
     @media (max-width: 767px) {
