@@ -7356,6 +7356,7 @@ html {
 .hiro-nav {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding-top: 27px;
   padding-bottom: 27px;
   position: relative;
